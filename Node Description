@@ -1,0 +1,9 @@
+The Advanced Text Processor Node is a versatile custom node for ComfyUI designed for efficient text manipulation and analysis. 
+input:
+- remove all empty lines 
+- search-and-replace 
+- line by its index 
+
+outputs:
+- fully processed text
+- selected line as separate outputs. 
