@@ -1,0 +1,1 @@
+This node processes text by removing empty lines, performing search-and-replace using regex, and returning both the full processed text and a specific line by index. It’s easy to use and helps clean up and edit text within ComfyUI workflows.
